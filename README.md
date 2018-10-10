@@ -1,2 +1,0 @@
-# formicka
-Created with CodeSandbox
